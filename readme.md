@@ -8,7 +8,7 @@ Proposta de *landing page* ou *newsletter* inspirada na atividade prática **Des
 Concluído!!!:computer:
 
 ## Demonstração da aplicação
-[Clique aqui para acessar](link)
+[Clique aqui para acessar](https://renatabc.github.io/newsletter-or-leads/)
 
 ## Pré-requisitos
 - Para baixar o repositório, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
