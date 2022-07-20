@@ -2,11 +2,13 @@
 
 Proposta de *landing page* ou *newsletter* inspirada na atividade prática **Desafio "RocketNews"** ofertada pela [Rocketseat](https://app.rocketseat.com.br/?).
 
+![leadon](https://user-images.githubusercontent.com/93830634/179872050-59d28cbf-0c22-4a3b-9329-097f98042443.png)
+
 ### Status do projeto
 Concluído!!!:computer:
 
 ## Demonstração da aplicação
-[Clique aqui para acessar](link)
+[Clique aqui para acessar](https://renatabc.github.io/newsletter-or-leads/)
 
 ## Pré-requisitos
 - Para baixar o repositório, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
